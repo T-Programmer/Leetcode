@@ -11,12 +11,18 @@ array(数组):双指针，二分法
 
 ## 刷题记录
 array：
-- 1. Two Sum 哈希
-- 11. Container With Most Water 双指针
-- 15. 3Sum 双指针 **（未做）**
-- 27. Remove Element 双指针
-- 35. Search Insert Position 二分法 **（未做）** 
-- 53. Maximum Subarray
+
+1.Two Sum 哈希
+
+11.Container With Most Water 双指针
+
+15.3Sum 双指针 **（未做）**
+
+27.Remove Element 双指针
+
+35.Search Insert Position 二分法 **（未做）** 
+
+53.Maximum Subarray
 
 
 
